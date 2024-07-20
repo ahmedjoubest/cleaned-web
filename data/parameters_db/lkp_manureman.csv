@@ -1,0 +1,36 @@
+"manureman_code","manureman_desc","emission_factor"
+"pasture","Pasture / range / paddock",0.01
+"storage","Solid storage",0.005
+"drylot","Dry lot",0.02
+"Uncovered anaerobic lagoon
+","Uncovered anaerobic lagoon",0
+"Liquid/Slurry Pit below animals 1 Month
+","Liquid/Slurry Pit below animals 1 Month",0
+"Liquid/Slurry Pit below animals 3 Month","Liquid/Slurry Pit below animals 3 Month",0
+"Liquid/Slurry Pit below animals 4 Month","Liquid/Slurry Pit below animals 4 Month",0
+"Liquid/Slurry Pit below animals 6 Month
+","Liquid/Slurry Pit below animals 6 Month",0
+"Liquid/Slurry Pit below animals 12 Month","Liquid/Slurry Pit below animals 12 Month",0
+"Cattle and swine deep bedding < 1 month","Cattle and swine deep bedding < 1 month",0
+"Cattle and swine deep bedding > 1 month
+","Cattle and swine deep bedding > 1 month",0
+"Solid storage","Solid storage",0
+"Solid storage - Covered/compacted
+","Solid storage - Covered/compacted",0
+"Solid storage - Bulking agent addition","Solid storage - Bulking agent addition",0
+"Solid storage - Additives","Solid storage - Additives",0
+"Daily spread","Daily spread",0
+"Composting - In-vessel","Composting - In-vessel",0
+"Composting - Static pile (forced aeration)","Composting - Static pile (forced aeration)",0
+"Composting - Intensive windrow","Composting - Intensive windrow",0
+"Composting - Unfrequent turning","Composting - Unfrequent turning",0
+"Pasture/Range/Paddock","Pasture/Range/Paddock",0
+"Poultry manure with and without litter","Poultry manure with and without litter",0
+"Aerobic treatment","Aerobic treatment",0
+"Burned for fuel","Burned for fuel",0
+"Anaer digester, Low leak, HQ stor, HQ tec.","Anaer digester, Low leak, HQ stor, HQ tec.",0
+"Anaer digester, Low leak, HQ stor, LQ tec","Anaer digester, Low leak, HQ stor, LQ tec",0
+"Anaer digester, Low leak, open stor, HQ tec","Anaer digester, Low leak, open stor, HQ tec",0
+"Anaer digester, High leak, open stor, HQ tec","Anaer digester, High leak, open stor, HQ tec",0
+"Anaer digester, High leak, LQ stor, LQ tec","Anaer digester, High leak, LQ stor, LQ tec",0
+"Anaer digester, High leak, open stor, LQ tec","Anaer digester, High leak, open stor, LQ tec",0

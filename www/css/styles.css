@@ -1,0 +1,9 @@
+
+.modal-dialog {
+      width: 80% !important;
+}
+
+.modal-content {
+      height: 90vh; /* 90% of the viewport height */
+      overflow-y: auto; /* Enable vertical scrolling */
+}
