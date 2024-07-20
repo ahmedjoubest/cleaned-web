@@ -9,7 +9,7 @@ mod_update_params_server <- function(
   # ------ * Open Modal Dialog on button ---------------------------------------
   observeEvent(input$update_params_modal, {
     showModal(modalDialog(
-      title = "Update Parameters Database",
+      title = "Edit Parameters Database",
       uiOutput(ns("modal_ui")),
       easyClose = TRUE,
       footer = modalButton("Close")
